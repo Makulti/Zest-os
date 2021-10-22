@@ -1,2 +1,2 @@
 # Zest-os
-The zest operating system
+NOT REALEASED YET BUT IN THE MAKING!
